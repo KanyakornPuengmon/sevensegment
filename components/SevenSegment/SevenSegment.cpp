@@ -67,9 +67,7 @@ void SevenSegment::DisplayNumber(int number)
         case 9:
             DisplayNum9();
             break;
-        default:
-            // Handle invalid numbers
-            break;
+        
     }
 }
 
